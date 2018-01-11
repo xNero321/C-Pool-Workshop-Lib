@@ -1,9 +1,9 @@
-WORKSHOP EPITECH POOL C Library
-Every C Function asked for EPITECH CPOOL
-showmem.c and showstr.c Missing
+WORKSHOP EPITECH POOL C Library\n
+Every C Function asked for EPITECH CPOOL\n
+showmem.c and showstr.c Missing\n
 ________________________________
               USAGE
-Makefile USAGE:
+Makefile USAGE:\n
 Make re
 ________________________________
               MARK
